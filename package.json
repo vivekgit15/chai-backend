@@ -1,0 +1,20 @@
+{
+  "name": "youtube-chai-app",
+  "version": "1.0.0",
+  "description": "a backend at chai aur code channel",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "vivek",
+  "license": "ISC"
+}
